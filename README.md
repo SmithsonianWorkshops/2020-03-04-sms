@@ -1,8 +1,8 @@
 # Data Carpentry Workshop at Smithsonian Castle Library
 
-Course website: https://smithsonianworkshops.github.io/2020-02-12-castle
+Course website: https://smithsonianworkshops.github.io/2020-03-04-sms
 
-EtherPad: https://pad.carpentries.org/2020-02-12-castle
+EtherPad: https://pad.carpentries.org/2020-03-04-sms
 
 [Keeping in touch](keep_in_touch.md)
 
