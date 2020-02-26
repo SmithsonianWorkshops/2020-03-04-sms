@@ -319,7 +319,7 @@ please preview your site before committing, and make sure to run
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
-{% include swc/setup.html %}
+{% include dc/setup.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
