@@ -7,6 +7,7 @@ Ecology workshops
 {% if site.curriculum == "dc-ecology" %}
 
 {% if site.flavor == "r" %}
+<nbsp;/>
 <p>
   The setup instructions for the Data Carpentry Ecology workshops (with R)
   can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
@@ -15,9 +16,10 @@ Ecology workshops
 
 {% elsif site.flavor == "python" %}
 <p>
-  The setup instructions for the Data Carpentry Ecology workshops (with Python)
-  can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html">
-    the workshop overview site</a>.
+  <h2>Required software:</h2> You will need a spreadsheet application, OpenRefine, RStudio and SQLite Browser.
+  With RStudio, you will also need the R packages `tidyverse` and `RSQLite`.
+  Instructions for installing these programs are R packages are avaialble at
+  <a href="https://datacarpentry.org/ecology-workshop/setup-python-workshop.html"> the workshop overview site</a>.
 </p>
 {% else %}
 {% include warning-flavor.html %}
