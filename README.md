@@ -1,4 +1,4 @@
-# Data Carpentry Workshop at Smithsonian Castle Library
+# Data Carpentry Workshop at Smithsonian Marine Station
 
 Course website: https://smithsonianworkshops.github.io/2020-03-04-sms
 
