@@ -317,7 +317,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 {% if site.carpentry == "swc" %}
-include swc/setup.html
+{% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/setup.html %}
 {% elsif site.carpentry == "lc" %}
