@@ -317,9 +317,9 @@ please preview your site before committing, and make sure to run
 </p>
 
 {% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
+{% include swc/syllabus.html %}
 {% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
+{% include dc/syllabus.html %}
 {% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
+{% include lc/syllabus.html %}
 {% endif %}
