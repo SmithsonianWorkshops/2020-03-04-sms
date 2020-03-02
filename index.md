@@ -220,6 +220,13 @@ e.g., '2015-06-10-esu'.
 <p>
 We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+
+<h2 id="course_github">Course Github</h2>
+
+<p>
+  The <a href="https://github.com/SmithsonianWorkshops/2020-03-04-sms">course github page</a> has additional tools and resources that may be useful.
+</p>
+
 <hr/>
 {% endif %}
 
